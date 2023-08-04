@@ -1,0 +1,2 @@
+Prefix plugins/ENSPIE/example/
+Plugin ENSPIE inputfile table.qza outputfile alpha_diversity.qza
